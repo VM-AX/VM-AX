@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **java,c**
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **mohitvmax620922@gmail.com**
 
