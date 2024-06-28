@@ -9,18 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
-- 🔭 I’m currently working on [CodeHarborHub](https://www.codeharborhub.live/).
+- 🔭 I’m currently a student
 
 - 🌱 I’m currently learning ** DSA, MERN**
 
-- 👯 I’m looking to collaborate on [Web develoment](https://www.codeharborhub.live/).
-
-- 👨‍💻 All of my projects are available at [My portfolio Website](https://ajay-dhangar.github.io/).
-
-
 - 💬 Ask me about **HTML, CSS, DSA in JAVA**
 
-- 📫 Connect with me **[Discord](https://discord.com/invite/BFkPKMsfuZ)**
+- 📫 Connect with me **[Email](mohitvmax620922@gmail.com)**
 
 
 <br /><br />
@@ -68,7 +63,7 @@
 
 ## Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?username=VM-AXr&column=10&theme=matrix)
 
 ---
 
@@ -80,18 +75,18 @@
  
 ## Profile Status:
 
-![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
-![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)
-<a href="https://leetcode.com/ajaydhangar49/"><img width="48%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+![](https://github-readme-stats.vercel.app/api?username=VM-AX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![working day](https://github-contribution-stats.vercel.app/api/?username=VM-AX)
+![contribute](https://github-contributor-stats.vercel.app/api?username=VM-AX&limit=7&contributions=true&hide=B%2B&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VM-AX&langs_count=20&theme=transparent&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VM-AXr&show_icons=true&theme=dark)
+<a href="[https://leetcode.com/u/mohitvmax620922/]"><img width="48%" src="https://leetcode.card.workers.dev/mohitvmax620922?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     
 
-![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-dhangar&theme=github_dark)
+![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VM-AX&theme=github_dark)
 
 
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-dhangar&theme=merko)](https://github.com/ajay-dhangar)
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VM-AX&theme=merko)](https://github.com/VM-AX)
 
 ---
 
