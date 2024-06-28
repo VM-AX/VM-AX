@@ -22,9 +22,7 @@
 
 ---
 
-<a href="#"><img src="https://github.com/Ajay-Dhangar/Ajay-Dhangar/assets/99037494/2d9936c1-6dda-4e46-b083-ef1bac7de146"  height="310" width="600" align="right" alt="Ajay Dhangar's"/></a>
 
-[![ajay-dhangar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18530900)](https://stackoverflow.com/users/18530900/ajay-dhangar)
 
 ---
 
@@ -52,18 +50,11 @@
 <a href="https://profiles.topcoder.com/ajaydhangar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@ajay-dhangar" height="30" width="40" /></a>
 </p>
 
-## My Projects
-
-<p align="left">
-<a href="https://github.com/CodeHarborHub/codeharborhub"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeHarborHub&repo=codeharborhub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="CodeHarborHub"></a>
-<a href="https://github.com/Ajay-Dhangar/Ajay-Dhangar.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=Ajay-Dhangar.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>   
-</p>
-
 ---
 
 ## Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VM-AXr&column=10&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?username=VM-AX&column=10&theme=matrix)
 
 ---
 
@@ -79,7 +70,7 @@
 ![working day](https://github-contribution-stats.vercel.app/api/?username=VM-AX)
 ![contribute](https://github-contributor-stats.vercel.app/api?username=VM-AX&limit=7&contributions=true&hide=B%2B&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VM-AX&langs_count=20&theme=transparent&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VM-AXr&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VM-AX&show_icons=true&theme=dark)
 <a href="[https://leetcode.com/u/mohitvmax620922/]"><img width="48%" src="https://leetcode.card.workers.dev/mohitvmax620922?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     
 
@@ -92,4 +83,4 @@
 
 <br />
 
-<div align="center">Made with ❤️ by <a href="https://ajay-dhangar.github.io" target="_blank">Ajay-Dhangar</a></div>
+<div align="center">Made with ❤️ by <a href="https://VM-AX.github.io" target="_blank">VMAX</a></div>
