@@ -5,7 +5,7 @@
 
 ![English Sloka](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&random=false&center=true&width=2300&lines=Where+one+sees+othing+else,+hears+nothing+else,+understands+nothing+else,+that+is+where+the+truth+is,+that+is+where+the+essence+of+software+development+is+to+be+understood+in+its+entirety.)
 
-<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="400" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
+<a href="https://app.daily.dev/ajaydhangar49"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  height="350" width="400" align="right" alt="Ajay Dhangar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
